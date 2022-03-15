@@ -1,0 +1,13 @@
+/* ESTE ARQUIVO POSSUE AS CONFIGURAÇÕES CSS MAIS GERAIS DA APLICAÇÃO */
+.Titulo {
+    vertical-align: center;
+}
+
+.Paragrafo{
+    text-align: center;
+}
+
+.Cards{
+    display: flex;
+    flex-wrap: wrap; /* Permitir quebrar a linha */
+}

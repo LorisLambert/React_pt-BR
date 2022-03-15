@@ -1,0 +1,30 @@
+/* ESTE ARQUIVO CONTÉM AS FORMATAÇÕES CSS APENAS DO CARTÃO */
+
+.Card {
+    flex: 1;
+    margin: 20px;
+    border: 2px solid #61dafb;
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    min-width: 300px; /* Esse estilo faz com que a quebra de linha aconteça conforme  medida minima do card */
+}
+
+.Card .Rodape{
+    background-color:#61dafb;
+    color: #20232a;
+    padding: 10px 30px;
+    text-align: center;
+}
+
+.Card .Conteudo{
+    color: #20232a;
+    flex: 1;
+    padding: 15px 0px;
+}
+
+.Card ul{
+    list-style-type: none;
+}

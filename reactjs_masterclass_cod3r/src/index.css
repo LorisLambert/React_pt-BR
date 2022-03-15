@@ -1,0 +1,14 @@
+/* ESTE ARQUIVO CONTÉM AS FORMATAÇÕES CSS DO INDEX.JS */
+
+body{
+    font-family: 'Trebuchet MS';
+    font-weight: 200;
+    font-size: 2rem;
+    background-color: #20232a;
+    color: #61dafb;
+    text-align: center;
+}
+
+h2{
+    font-weight: 100;
+}
